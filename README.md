@@ -1,3 +1,3 @@
 # recipe-app-api
 
-Guided Django + Docker training
+Rest API with Django, TDD + Docker practicing
